@@ -6,7 +6,7 @@ WORKDIR /home/app
 
 RUN mkdir /home/app/.npm-global
 
-# # getting error: Your cache folder contains root-owned files
+# getting error: Your cache folder contains root-owned files
 ENV NPM_CONFIG_PREFIX /home/app/.npm-global
 ENV NPM_CONFIG_CACHE /home/app/.npm
 
