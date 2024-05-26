@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/ducke/semantic-release/compare/v1.0.3...v1.0.4) (2024-05-26)
+
+
+### Bug Fixes
+
+* docker action ([363a323](https://github.com/ducke/semantic-release/commit/363a323a8be6e65fd0bb01f2af26c7b2866cc99d))
+
 ## [1.0.3](https://github.com/ducke/semantic-release/compare/v1.0.2...v1.0.3) (2024-05-26)
 
 
