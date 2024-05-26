@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/ducke/semantic-release/compare/v1.0.6...v1.0.7) (2024-05-26)
+
+
+### Bug Fixes
+
+* Workflow ([23a1a1c](https://github.com/ducke/semantic-release/commit/23a1a1ca149aa93cb8bdd4d620d64db091ab437e))
+
 ## [1.0.6](https://github.com/ducke/semantic-release/compare/v1.0.5...v1.0.6) (2024-05-26)
 
 
