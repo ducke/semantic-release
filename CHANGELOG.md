@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/ducke/semantic-release/compare/v1.0.7...v1.0.8) (2024-05-26)
+
+
+### Bug Fixes
+
+* add scanning ([bbf84af](https://github.com/ducke/semantic-release/commit/bbf84afd5508d880c905a48a24b1e720f3fa3bce))
+
 ## [1.0.7](https://github.com/ducke/semantic-release/compare/v1.0.6...v1.0.7) (2024-05-26)
 
 
