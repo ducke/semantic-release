@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/ducke/semantic-release/compare/v1.0.5...v1.0.6) (2024-05-26)
+
+
+### Bug Fixes
+
+* change containerfile ([280149f](https://github.com/ducke/semantic-release/commit/280149f961567e26ba1dd046994770d4a95ba60a))
+
 ## [1.0.5](https://github.com/ducke/semantic-release/compare/v1.0.4...v1.0.5) (2024-05-26)
 
 
