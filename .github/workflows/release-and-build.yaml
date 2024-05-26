@@ -35,5 +35,10 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v4
         with:
-          push: true
+          context: .
+          file: Containerfile
+          push: ${{ github.event_name != 'pull_request' }}
           tags: ghcr.io/${{ github.repository }}:${{ needs.release.outputs.newVersion }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
