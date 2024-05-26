@@ -1,0 +1,18 @@
+branches: 
+  - main
+debug: false
+tagFormat: v${version}
+verifyConditions: "@semantic-release/github"
+analyzeCommits: "@semantic-release/commit-analyzer"
+generateNotes: "@semantic-release/release-notes-generator"
+plugins:
+- "@semantic-release/git"
+prepare: 
+- path: "@semantic-release/git"
+  message: "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+publish: 
+- path: "@semantic-release/github"
+dryRun: false
+ci: true
+success: false
+fail: false
