@@ -17,4 +17,5 @@ RUN npm install -g npm@"10.5.2" \
 
 COPY --chown=65532:65532 . .
 
+
 CMD ["npx", "semantic-release", "--help"]
