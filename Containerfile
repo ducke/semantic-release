@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/nodejs-20@sha256:36a28ee196fca65685a4af868addcec5ad0dc8234e91a5f980d822d80f844564
+FROM registry.access.redhat.com/ubi8/nodejs-20@sha256:sha256:c9ce7bcfe894d70a3d872064b2e810413c8f3dd9d7df3b3698fe213ce7d0fd88
 
 USER 65532
 
