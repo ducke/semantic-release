@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/ducke/semantic-release/compare/v1.0.11...v1.0.12) (2024-05-27)
+
+
+### Bug Fixes
+
+* add semrel plugins ([994013e](https://github.com/ducke/semantic-release/commit/994013e326ea74083f0300ab97a5892f44eaa684))
+
 ## [1.0.11](https://github.com/ducke/semantic-release/compare/v1.0.10...v1.0.11) (2024-05-27)
 
 
