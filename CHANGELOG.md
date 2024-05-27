@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/ducke/semantic-release/compare/v1.0.13...v1.0.14) (2024-05-27)
+
+
+### Bug Fixes
+
+* npm package versions ([c3d83fe](https://github.com/ducke/semantic-release/commit/c3d83fe013e7141116e893c12a872c63f23a823f))
+
 ## [1.0.13](https://github.com/ducke/semantic-release/compare/v1.0.12...v1.0.13) (2024-05-27)
 
 
