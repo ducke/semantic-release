@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/ducke/semantic-release/compare/v1.0.10...v1.0.11) (2024-05-27)
+
+
+### Bug Fixes
+
+* Change tag to newest version ([e934997](https://github.com/ducke/semantic-release/commit/e93499772d77ba90b57ccaa0f75c0f84c4b1243b))
+
 ## [1.0.10](https://github.com/ducke/semantic-release/compare/v1.0.9...v1.0.10) (2024-05-27)
 
 
