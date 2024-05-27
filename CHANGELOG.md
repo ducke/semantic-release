@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/ducke/semantic-release/compare/v1.0.12...v1.0.13) (2024-05-27)
+
+
+### Bug Fixes
+
+* package names ([447f762](https://github.com/ducke/semantic-release/commit/447f7624b0f89d40e9e5c94448b8a91715d29f27))
+
 ## [1.0.12](https://github.com/ducke/semantic-release/compare/v1.0.11...v1.0.12) (2024-05-27)
 
 
