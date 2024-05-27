@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/ducke/semantic-release/compare/v1.0.9...v1.0.10) (2024-05-27)
+
+
+### Bug Fixes
+
+* Update docker-publish.yml ([f226ae1](https://github.com/ducke/semantic-release/commit/f226ae1058f6f29b6f75f4ed208b9444a2d00cb6))
+
 ## [1.0.9](https://github.com/ducke/semantic-release/compare/v1.0.8...v1.0.9) (2024-05-26)
 
 
